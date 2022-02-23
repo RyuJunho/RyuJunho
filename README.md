@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**RyuJunho/RyuJunho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# RyuJunho :smiley:
+### :office: 동의대학교 컴퓨터공학과 3학년(2022)
+#
+#
+## :pencil2: Languages 
+![PYTHON](https://img.shields.io/badge/PYTHON-0696D7?style=plastic&logo=Python&logoColor=white)      ![JAVA](https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white)
+#
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=20183026)](https://solved.ac/20183026)
+#
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyuJunho&show_icons=true)
