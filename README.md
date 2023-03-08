@@ -1,5 +1,5 @@
 # RyuJunho :smiley:
-## :office: 동의대학교 컴퓨터공학과 3학년(2022)
+## :office: 동의대학교 컴퓨터공학과 4학년(2023)
 
 
 ## :pencil2: Languages 
