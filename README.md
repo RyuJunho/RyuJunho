@@ -1,5 +1,5 @@
 # RyuJunho :smiley:
-## :office: 동의대학교 컴퓨터공학과 졸업(2024)
+## :office: 부산대학교 (2024)
 
 
 ## :pencil2: Languages 
