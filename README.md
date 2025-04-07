@@ -1,5 +1,5 @@
 # RyuJunho :smiley:
-## :office: 부산대학교 (2024)
+## :office: 부산대학교 (2025)
 
 
 ## :pencil2: Languages 
